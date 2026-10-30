@@ -82,4 +82,4 @@ app.js        abas, eventos da tela e comunicação com o backend
 
 ## Autores
 
-- Seu Nome
+- João Pedro Teixeira dos Santos
